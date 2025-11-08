@@ -14,7 +14,7 @@ Rotate Array ✅
 Three Great Candidates ✅
 Max Consecutive Ones ✅
 Move All Zeroes To End ✅
-Wave Array
+Wave Array ✅
 Plus One
 Stock Buy and Sell – One Transaction
 Stock Buy and Sell – Multiple Transactions
@@ -24,7 +24,9 @@ Array Leaders
 Missing and Repeating in Array
 Missing Ranges of Numbers
 Sum of all Subarrays
+
 Medium Problems
+----------------
 Next Permutation
 Majority Element
 Majority Element II
@@ -45,7 +47,9 @@ Transform and Sort Array
 Minimum Swaps To Group All Ones
 Minimum Moves To Equalize Array
 Minimum Indices To Equal Even-Odd Sums
+
 Hard Problems
+--------------
 Trapping Rain Water
 Maximum Circular Subarray Sum
 Smallest Missing Positive Number
